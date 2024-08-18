@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amitverma0509/](https://github.com/Amitverma0509?tab=repositories)
 
-- 💬 Ask me about **Web dev, Dsa, Web testing, Web Scrapting**
+- 💬 Ask me about **Web dev, Dsa, Web testing, Web Scrapting, Browser Automation**
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Amitverma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amit-verma059/) or **amitverma05092006@gmail.com**
 
